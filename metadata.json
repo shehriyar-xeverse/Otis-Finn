@@ -1,0 +1,6 @@
+{
+  "name": "Otis & Finn Barbershop",
+  "description": "An elegant, premium, fully animated web experience for Otis & Finn Barbershop containing interactive schedules, a booking engine, and a product store.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
